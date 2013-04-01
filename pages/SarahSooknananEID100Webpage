@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:blue;">
+<h2 style="background-color:green;">My EID100 Practical Application Activity #4</h2>
+<p style="background-color:yellow;">Hi, my name is Sarah Sooknanan. I am a first year student at Ryerson University. For my fourth practical application for the EID100 class at Ryerson University. I had to experiment with html code. This is the end result. It was challenging because I realized, if you make small mistake, like a spelling error or not putting the correct punctuation, the html code won't work how you want it to. It was still fun in the end but very confusing.</p>
+<p style-"background-color:red;">Check out some of these links.</p>
+<table border="1">
+<tr>
+ <td><a href="http://storify.com/sarahsooknanan">Storify</a></td>
+ <td><a href="https://twitter.com/SooknananSarah">Twitter</a></td>
+ <td><a href="http://sarahsooknanan.wordpress.com/">Wordpress</a></td>
+</tr>
+</table>
+<img src="http://images4.wikia.nocookie.net/__cb20100929075111/fairlyoddparents/en/images/2/28/Tootie_Stockart.png" alt="104" height="142">
+
+
+<p id="demo">
+Thanks for looking at my webpage I made from scratch.
+</p>
+
+<script>
+function myFunction()
+{
+document.getElementById("demo").innerHTML="Have a nice day!";
+}
+</script>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+
+
+</body>
+</html>
