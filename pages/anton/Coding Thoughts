@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+  <head>
+		Anton Schefter's EID100 Coded Site
+	</head>
+
+	<body>
+	<body style="background:#6996C6">
+		<h1>Initial Thoughts<h1>
+
+		<p style="color: red;"> At first I found coding to be impossible. I had no idea how to start, where to begin, and no clue what the end result would be. I came into this a blank slate but was pleasantly surprised after a couple of hours of tutorials everything began to make sense and come together.</p>
+		
+		<h1>In the end<h1>
+		<p style="color: red;"> I was amazed at the whole process and short-forms used in this line of work. Throughout this whole process my respect for programers and developers has increased substantially since I can not believe the work that goes into the main skeleton of digital work.</p>
+	<p>
+		<a href="http://codepen.io/pen/">
+			<img src="http://www.graffititechnica.com/images/complex_graffiti_full_01.JPG">
+		</a>
+	</p>
+
+<p style="color: orange;"> <a href="http://codepen.io">
+	<button type="button" onclick="myFunction()">OJ!</button>
+</a>
+</p>
+
+		<table border="1">
+<tr>
+<td>ONE</td>
+<td>THREE</td>
+</tr>
+<tr>
+<td>TWO</td>
+<td>FOUR</td>
+</tr>
+</table>
+
+	</body>
+
+</html>
